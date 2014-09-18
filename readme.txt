@@ -1,1 +1,2 @@
-This is git learning.
+This is git learning, Woo!
+And the next is good.
